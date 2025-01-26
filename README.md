@@ -1,2 +1,1 @@
-# DAV_Detection
-Deepfake_Audio_And Video_detection
+# RJPOLICE_HACK_1400_BitwiseOperators_8
